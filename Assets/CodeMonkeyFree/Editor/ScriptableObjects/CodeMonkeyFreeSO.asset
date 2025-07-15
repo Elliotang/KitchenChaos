@@ -14,46 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1752182709
+  lastShownTimestamp: 1752527325
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1752182709
+  checkedLastUpdateTimestamp: 1752530929
   lastQOTDResponse:
-    questionId: 199
-    questionText: 'Does this code compile?
-
-      <p>private void SetTarget(Transform
-      target) {</p>
-
-      <p>&nbsp; &nbsp; GameObject targetGameObject = target;</p>
-
-      <p>}</p>'
-    answerA: No
-    answerB: Yes
-    answerC: Yes if target is not null
-    answerD: 
+    questionId: 200
+    questionText: What is the orthographicSize in a 2D camera?
+    answerA: Units visible horizontally
+    answerB: Units visible vertically
+    answerC: Half the units visible horizontally
+    answerD: Half the units visible vertically
     answerE: 
-  lastQotdTimestamp: 1752182709
+  lastQotdTimestamp: 1752530929
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle.png
     topText: All my Courses (and Games) in one Bundle! DEEP DISCOUNT ONLY THIS SUMMER!
     topLink: summer2025bundle
     bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     bottomLink: humblebundle
-  lastDynamicHeaderTimestamp: 1752182709
+  lastDynamicHeaderTimestamp: 1752530929
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1752182709
+  websiteLatestMessageTimestamp: 1752530929
   websiteLatestVideos:
     videos:
+    - youTubeId: 4kg2N-t2tWI
+      title: How REAL Developers Build Complex Games!
+    - youTubeId: OOVrtfWLdvE
+      title: TOP 10 FREE NEW Assets JULY 2025!
     - youTubeId: ALogEuL6QdA
       title: The BEST Design Patterns for Game Dev! (Save Time and make BETTER Games!)
     - youTubeId: 7RwMD97Le7I
       title: Learn C# by DOING, FizzBuzz Beginner Project (Overview + Walkthrough)
-    - youTubeId: miW-Q8EuRWU
-      title: The BEST Worldbuilding Tool is FREE! (ENDS SOON!)
-    - youTubeId: mdjap-NtkWs
-      title: TOP 10 NEW Games, Made with Unity! (JUNE 2025)
-  websiteLatestVideosTimestamp: 1752182709
+  websiteLatestVideosTimestamp: 1752530929
