@@ -14,39 +14,47 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1752527325
+  lastShownTimestamp: 1752859772
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1752530929
+  checkedLastUpdateTimestamp: 1752859772
   lastQOTDResponse:
-    questionId: 200
-    questionText: What is the orthographicSize in a 2D camera?
-    answerA: Units visible horizontally
-    answerB: Units visible vertically
-    answerC: Half the units visible horizontally
-    answerD: Half the units visible vertically
+    questionId: 202
+    questionText: 'What is the Color on the SpriteRenderer after running this code?
+
+      <p>Color
+      myColor = Color.red;</p>
+
+      <p>spriteRenderer.color = myColor;</p>
+
+      <p>myColor
+      = Color.blue;</p>'
+    answerA: Red
+    answerB: Blue
+    answerC: Don't Know
+    answerD: 
     answerE: 
-  lastQotdTimestamp: 1752530929
+  lastQotdTimestamp: 1752859772
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle.png
     topText: All my Courses (and Games) in one Bundle! DEEP DISCOUNT ONLY THIS SUMMER!
     topLink: summer2025bundle
     bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     bottomLink: humblebundle
-  lastDynamicHeaderTimestamp: 1752530929
+  lastDynamicHeaderTimestamp: 1752859772
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1752530929
+  websiteLatestMessageTimestamp: 1752859772
   websiteLatestVideos:
     videos:
+    - youTubeId: s9ORB4W5K2E
+      title: How to make an AWESOME Fantasy RPG in 19 MINUTES!
+    - youTubeId: PbFb7PFdT4A
+      title: Get 98% OFF on the Unity Summer Sale! (Awesome TOOLS and Assets!)
     - youTubeId: 4kg2N-t2tWI
       title: How REAL Developers Build Complex Games!
     - youTubeId: OOVrtfWLdvE
       title: TOP 10 FREE NEW Assets JULY 2025!
-    - youTubeId: ALogEuL6QdA
-      title: The BEST Design Patterns for Game Dev! (Save Time and make BETTER Games!)
-    - youTubeId: 7RwMD97Le7I
-      title: Learn C# by DOING, FizzBuzz Beginner Project (Overview + Walkthrough)
-  websiteLatestVideosTimestamp: 1752530929
+  websiteLatestVideosTimestamp: 1752859772

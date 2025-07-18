@@ -18,7 +18,6 @@ public class CuttingCounter : BaseCounter
 
     public override void Interact(Player player)
     {
-
         if (!HasKitchenObject())
         {
             if (player.HasKitchenObject())
@@ -46,7 +45,9 @@ public class CuttingCounter : BaseCounter
                 GetKitchenObject().SetKitchenObjectParent(player);
             }
         }
-    }    public override void InteractAlternate(Player player)
+    }
+
+    public override void InteractAlternate(Player player)
     {
         if (HasKitchenObject() && HasRecipeWithInput(GetKitchenObject().GetKitchenObjectSO()))
         {
